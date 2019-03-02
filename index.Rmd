@@ -70,12 +70,6 @@ knitr::include_graphics("./img/figure4_2017.png")
 knitr::include_graphics("./img/figure4_2017_paca.png")
 ```
 
----
-## Un rééquilibrage Nord-Sud ?
-
-<div align="middle">
-.reduite[![](./figure5.png)]
-</div>
 
 ---
 ## Un rééquilibrage Nord-Sud ?
